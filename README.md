@@ -1,2 +1,2 @@
 # StarStruck
-Team 1104G's VEX StarStruck files
+Team 1104G's VEX Star Struck robot files
